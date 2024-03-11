@@ -9,3 +9,15 @@ C:\Users\guven\Documents\GitHub\(.Net)Basics\(.Net)Basics\obj\Debug\(.Net)Basics
 C:\Users\guven\Documents\GitHub\(.Net)Basics\(.Net)Basics\obj\Debug\(.Net)Basics.csproj.CoreCompileInputs.cache
 C:\Users\guven\Documents\GitHub\(.Net)Basics\(.Net)Basics\obj\Debug\(.Net)Basics.exe
 C:\Users\guven\Documents\GitHub\(.Net)Basics\(.Net)Basics\obj\Debug\(.Net)Basics.pdb
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\bin\Debug\(.Net)Basics.exe.config
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\bin\Debug\(.Net)Basics.exe
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\bin\Debug\(.Net)Basics.pdb
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\(.Net)Basics.csproj.AssemblyReference.cache
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\_.Net_Basics.Main.resources
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\_.Net_Basics.MathOp.resources
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\_.Net_Basics.Properties.Resources.resources
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\(.Net)Basics.csproj.GenerateResource.cache
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\(.Net)Basics.csproj.CoreCompileInputs.cache
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\(.Net)Basics.exe
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\(.Net)Basics.pdb
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\_.Net_Basics.NumberGuesser.resources

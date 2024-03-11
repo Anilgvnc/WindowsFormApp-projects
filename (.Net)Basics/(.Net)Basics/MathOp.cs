@@ -15,12 +15,16 @@ namespace _.Net_Basics
     {
 
         int pCount = 0, cCount = 0, wCount = 0;
-        int num1, num2, answer;
+        int num1, num2, answer, op;
         int playerAns;
         string question;
         string lblplay;
         string lblCorrect;
 
+        private void answerText_TextChanged(object sender, EventArgs e)
+        {
+
+        }
 
         public MathOp()
         {
@@ -30,10 +34,31 @@ namespace _.Net_Basics
         private void startButton_Click(object sender, EventArgs e)
         {
             Random random = new Random();
+            op = random.Next(1, 5);
             num1 = random.Next(1, 100);
             num2 = random.Next(1, 100);
-            answer = num1 + num2;
-            questionlbl.Text = num1.ToString() + " + " + num2.ToString();
+
+            switch (op)
+            {
+                case 1:
+                    answer = num1 + num2;
+                    questionlbl.Text = num1.ToString() + " + " + num2.ToString();
+                    break;
+                case 2:
+                    answer = num1 - num2;
+                    questionlbl.Text = num1.ToString() + " - " + num2.ToString();
+                    break;
+                case 3:
+                    answer = num1 * num2;
+                    questionlbl.Text = num1.ToString() + " x " + num2.ToString();
+                    break;
+                case 4:
+                    answer = num1 / num2;
+                    questionlbl.Text = num1.ToString() + " / " + num2.ToString();
+                    break;
+
+            }
+
             startButton.Text = "Take another question";
 
             pCount++;
@@ -57,9 +82,9 @@ namespace _.Net_Basics
                 return;
             }
 
-            if (playerAns < 0 || playerAns > 1000)
+            if (playerAns < 0 || playerAns > 10000)
             {
-                MessageBox.Show("The number must be range [1-999]");
+                MessageBox.Show("The number must be range [1-9999]");
                 answerText.Focus();
                 answerText.SelectAll();
                 return;

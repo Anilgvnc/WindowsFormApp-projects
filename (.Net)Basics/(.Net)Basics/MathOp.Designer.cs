@@ -90,6 +90,7 @@
             this.answerText.Size = new System.Drawing.Size(129, 20);
             this.answerText.TabIndex = 4;
             this.answerText.Text = "Enter your answer";
+            this.answerText.TextChanged += new System.EventHandler(this.answerText_TextChanged);
             // 
             // checkButton
             // 
@@ -190,6 +191,7 @@
             this.Controls.Add(this.header);
             this.Controls.Add(this.button1);
             this.Name = "MathOp";
+            this.ShowIcon = false;
             this.Text = "MathOp";
             this.score.ResumeLayout(false);
             this.score.PerformLayout();
