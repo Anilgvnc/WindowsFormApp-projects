@@ -38,6 +38,7 @@
             this.socialmedialbl = new System.Windows.Forms.Label();
             this.linkedin = new System.Windows.Forms.LinkLabel();
             this.website = new System.Windows.Forms.LinkLabel();
+            this.redirectToOddOrEven = new System.Windows.Forms.Button();
             this.navPanel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -89,6 +90,7 @@
             this.navPanel.AutoSize = true;
             this.navPanel.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.navPanel.Controls.Add(this.redirectToMathOp);
+            this.navPanel.Controls.Add(this.redirectToOddOrEven);
             this.navPanel.Controls.Add(this.redirectTo_NumGuesser);
             this.navPanel.Location = new System.Drawing.Point(12, 12);
             this.navPanel.Name = "navPanel";
@@ -157,6 +159,17 @@
             this.website.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.website.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.website_LinkClicked);
             // 
+            // redirectToOddOrEven
+            // 
+            this.redirectToOddOrEven.AutoSize = true;
+            this.redirectToOddOrEven.Location = new System.Drawing.Point(19, 115);
+            this.redirectToOddOrEven.Name = "redirectToOddOrEven";
+            this.redirectToOddOrEven.Size = new System.Drawing.Size(165, 33);
+            this.redirectToOddOrEven.TabIndex = 5;
+            this.redirectToOddOrEven.Text = "Number Analysis";
+            this.redirectToOddOrEven.UseVisualStyleBackColor = true;
+            this.redirectToOddOrEven.Click += new System.EventHandler(this.redirectToOddOrEven_Click);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -195,6 +208,7 @@
         private System.Windows.Forms.Label socialmedialbl;
         private System.Windows.Forms.LinkLabel linkedin;
         private System.Windows.Forms.LinkLabel website;
+        private System.Windows.Forms.Button redirectToOddOrEven;
     }
 }
 

@@ -192,6 +192,7 @@
             this.Controls.Add(this.button1);
             this.Name = "MathOp";
             this.ShowIcon = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MathOp";
             this.score.ResumeLayout(false);
             this.score.PerformLayout();

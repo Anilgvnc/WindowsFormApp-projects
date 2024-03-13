@@ -45,5 +45,12 @@ namespace _.Net_Basics
         {
             System.Diagnostics.Process.Start("https://green-wave-0ee2a0b03.4.azurestaticapps.net/");
         }
+
+        private void redirectToOddOrEven_Click(object sender, EventArgs e)
+        {
+            NumberAnalysis oddOrEven = new NumberAnalysis();
+            oddOrEven.Show();
+            this.Hide();
+        }
     }
 }

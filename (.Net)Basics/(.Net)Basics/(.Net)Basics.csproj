@@ -64,6 +64,12 @@
     <Compile Include="NumberGuesser.Designer.cs">
       <DependentUpon>NumberGuesser.cs</DependentUpon>
     </Compile>
+    <Compile Include="NumberAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NumberAnalysis.Designer.cs">
+      <DependentUpon>NumberAnalysis.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Main.resx">
@@ -74,6 +80,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="NumberGuesser.resx">
       <DependentUpon>NumberGuesser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumberAnalysis.resx">
+      <DependentUpon>NumberAnalysis.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\numberanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\numberanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\numberanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\numberanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.net)basics\\mathop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\mathop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.net)basics\\mathop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\mathop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,23 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NumberGuesser.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberGuesser.cs",
-              "RelativeDocumentMoniker": "(.Net)Basics\\NumberGuesser.cs",
-              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberGuesser.cs [Design]",
-              "RelativeToolTip": "(.Net)Basics\\NumberGuesser.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "NumberAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberAnalysis.cs",
+              "RelativeDocumentMoniker": "(.Net)Basics\\NumberAnalysis.cs",
+              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberAnalysis.cs",
+              "RelativeToolTip": "(.Net)Basics\\NumberAnalysis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T10:02:08.854Z",
+              "WhenOpened": "2024-03-13T10:32:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberAnalysis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberAnalysis.cs",
+              "RelativeDocumentMoniker": "(.Net)Basics\\NumberAnalysis.cs",
+              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberAnalysis.cs [Design]",
+              "RelativeToolTip": "(.Net)Basics\\NumberAnalysis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:31:05.619Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Main.cs [Design]",
               "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\Main.cs",
               "RelativeDocumentMoniker": "(.Net)Basics\\Main.cs",
@@ -58,38 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MathOp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\MathOp.cs",
-              "RelativeDocumentMoniker": "(.Net)Basics\\MathOp.cs",
-              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\MathOp.cs [Design]",
-              "RelativeToolTip": "(.Net)Basics\\MathOp.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T10:04:34.259Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MathOp.cs",
-              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\MathOp.cs",
-              "RelativeDocumentMoniker": "(.Net)Basics\\MathOp.cs",
-              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\MathOp.cs",
-              "RelativeToolTip": "(.Net)Basics\\MathOp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T10:04:38.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\Main.cs",
               "RelativeDocumentMoniker": "(.Net)Basics\\Main.cs",
               "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\Main.cs",
               "RelativeToolTip": "(.Net)Basics\\Main.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAqwC0AAABhAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAD4vzAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T09:54:01.325Z",
               "EditorCaption": ""
