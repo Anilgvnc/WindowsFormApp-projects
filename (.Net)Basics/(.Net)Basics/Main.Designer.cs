@@ -33,12 +33,14 @@
             this.redirectTo_NumGuesser = new System.Windows.Forms.Button();
             this.redirectToMathOp = new System.Windows.Forms.Button();
             this.navPanel = new System.Windows.Forms.Panel();
+            this.redirectToOddOrEven = new System.Windows.Forms.Button();
             this.github = new System.Windows.Forms.LinkLabel();
             this.contactlbl = new System.Windows.Forms.Label();
             this.socialmedialbl = new System.Windows.Forms.Label();
             this.linkedin = new System.Windows.Forms.LinkLabel();
             this.website = new System.Windows.Forms.LinkLabel();
-            this.redirectToOddOrEven = new System.Windows.Forms.Button();
+            this.redirectToCraps = new System.Windows.Forms.Button();
+            this.redirectToNumberGuessing = new System.Windows.Forms.Button();
             this.navPanel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -90,12 +92,25 @@
             this.navPanel.AutoSize = true;
             this.navPanel.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.navPanel.Controls.Add(this.redirectToMathOp);
+            this.navPanel.Controls.Add(this.redirectToNumberGuessing);
+            this.navPanel.Controls.Add(this.redirectToCraps);
             this.navPanel.Controls.Add(this.redirectToOddOrEven);
             this.navPanel.Controls.Add(this.redirectTo_NumGuesser);
             this.navPanel.Location = new System.Drawing.Point(12, 12);
             this.navPanel.Name = "navPanel";
             this.navPanel.Size = new System.Drawing.Size(204, 514);
             this.navPanel.TabIndex = 8;
+            // 
+            // redirectToOddOrEven
+            // 
+            this.redirectToOddOrEven.AutoSize = true;
+            this.redirectToOddOrEven.Location = new System.Drawing.Point(19, 115);
+            this.redirectToOddOrEven.Name = "redirectToOddOrEven";
+            this.redirectToOddOrEven.Size = new System.Drawing.Size(165, 33);
+            this.redirectToOddOrEven.TabIndex = 5;
+            this.redirectToOddOrEven.Text = "Number Analysis";
+            this.redirectToOddOrEven.UseVisualStyleBackColor = true;
+            this.redirectToOddOrEven.Click += new System.EventHandler(this.redirectToOddOrEven_Click);
             // 
             // github
             // 
@@ -159,16 +174,27 @@
             this.website.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.website.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.website_LinkClicked);
             // 
-            // redirectToOddOrEven
+            // redirectToCraps
             // 
-            this.redirectToOddOrEven.AutoSize = true;
-            this.redirectToOddOrEven.Location = new System.Drawing.Point(19, 115);
-            this.redirectToOddOrEven.Name = "redirectToOddOrEven";
-            this.redirectToOddOrEven.Size = new System.Drawing.Size(165, 33);
-            this.redirectToOddOrEven.TabIndex = 5;
-            this.redirectToOddOrEven.Text = "Number Analysis";
-            this.redirectToOddOrEven.UseVisualStyleBackColor = true;
-            this.redirectToOddOrEven.Click += new System.EventHandler(this.redirectToOddOrEven_Click);
+            this.redirectToCraps.AutoSize = true;
+            this.redirectToCraps.Location = new System.Drawing.Point(19, 165);
+            this.redirectToCraps.Name = "redirectToCraps";
+            this.redirectToCraps.Size = new System.Drawing.Size(165, 33);
+            this.redirectToCraps.TabIndex = 5;
+            this.redirectToCraps.Text = "Craps Game";
+            this.redirectToCraps.UseVisualStyleBackColor = true;
+            this.redirectToCraps.Click += new System.EventHandler(this.redirectToCraps_Click);
+            // 
+            // redirectToNumberGuessing
+            // 
+            this.redirectToNumberGuessing.AutoSize = true;
+            this.redirectToNumberGuessing.Location = new System.Drawing.Point(19, 217);
+            this.redirectToNumberGuessing.Name = "redirectToNumberGuessing";
+            this.redirectToNumberGuessing.Size = new System.Drawing.Size(165, 33);
+            this.redirectToNumberGuessing.TabIndex = 5;
+            this.redirectToNumberGuessing.Text = "Number Guessing Game";
+            this.redirectToNumberGuessing.UseVisualStyleBackColor = true;
+            this.redirectToNumberGuessing.Click += new System.EventHandler(this.redirectToNumberGuessing_Click);
             // 
             // Main
             // 
@@ -209,6 +235,8 @@
         private System.Windows.Forms.LinkLabel linkedin;
         private System.Windows.Forms.LinkLabel website;
         private System.Windows.Forms.Button redirectToOddOrEven;
+        private System.Windows.Forms.Button redirectToCraps;
+        private System.Windows.Forms.Button redirectToNumberGuessing;
     }
 }
 

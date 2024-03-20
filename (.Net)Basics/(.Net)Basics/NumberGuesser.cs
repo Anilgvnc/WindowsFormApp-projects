@@ -44,6 +44,10 @@ namespace _.Net_Basics
             do
             {
                 guessedNum = random.Next(0, 100);
+                if (guessedNum == num)
+                {
+                    break;
+                }
                 guessingLabel += guessedNum.ToString() + " -" + "oops" + "-> ";
                 guessinglbl.Text = guessingLabel;
 

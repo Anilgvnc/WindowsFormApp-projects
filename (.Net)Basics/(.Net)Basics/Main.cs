@@ -52,5 +52,19 @@ namespace _.Net_Basics
             oddOrEven.Show();
             this.Hide();
         }
+
+        private void redirectToCraps_Click(object sender, EventArgs e)
+        {
+            Craps craps = new Craps();
+            craps.Show();
+            this.Hide();
+        }
+
+        private void redirectToNumberGuessing_Click(object sender, EventArgs e)
+        {
+            NumberGuessing numberGuessing = new NumberGuessing();
+            numberGuessing.Show();
+            this.Hide();
+        }
     }
 }

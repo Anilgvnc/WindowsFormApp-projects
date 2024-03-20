@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\numberanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\numberanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\numberguessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\numberguessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\numberanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\numberanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\numberguessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\numberguessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\craps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\craps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|c:\\users\\anil\\documents\\github\\-.net-basics\\(.net)basics\\(.net)basics\\craps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94914122-8911-408D-AD39-C92172C93ECB}|(.Net)Basics\\(.Net)Basics.csproj|solutionrelative:(.net)basics\\craps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,31 +47,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NumberAnalysis.cs",
-              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberAnalysis.cs",
-              "RelativeDocumentMoniker": "(.Net)Basics\\NumberAnalysis.cs",
-              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberAnalysis.cs",
-              "RelativeToolTip": "(.Net)Basics\\NumberAnalysis.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAaAAAA",
+              "Title": "NumberGuessing.cs",
+              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberGuessing.cs",
+              "RelativeDocumentMoniker": "(.Net)Basics\\NumberGuessing.cs",
+              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberGuessing.cs",
+              "RelativeToolTip": "(.Net)Basics\\NumberGuessing.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T10:32:26.361Z",
+              "WhenOpened": "2024-03-20T12:43:28.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NumberAnalysis.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberAnalysis.cs",
-              "RelativeDocumentMoniker": "(.Net)Basics\\NumberAnalysis.cs",
-              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberAnalysis.cs [Design]",
-              "RelativeToolTip": "(.Net)Basics\\NumberAnalysis.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "NumberGuesser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberGuesser.cs",
+              "RelativeDocumentMoniker": "(.Net)Basics\\NumberGuesser.cs",
+              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberGuesser.cs [Design]",
+              "RelativeToolTip": "(.Net)Basics\\NumberGuesser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T10:31:05.619Z",
+              "WhenOpened": "2024-03-20T12:38:37.142Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "NumberGuessing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberGuessing.cs",
+              "RelativeDocumentMoniker": "(.Net)Basics\\NumberGuessing.cs",
+              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberGuessing.cs [Design]",
+              "RelativeToolTip": "(.Net)Basics\\NumberGuessing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:37:31.098Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Craps.cs",
+              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\Craps.cs",
+              "RelativeDocumentMoniker": "(.Net)Basics\\Craps.cs",
+              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\Craps.cs",
+              "RelativeToolTip": "(.Net)Basics\\Craps.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:48:16.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Craps.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\Craps.cs",
+              "RelativeDocumentMoniker": "(.Net)Basics\\Craps.cs",
+              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\Craps.cs [Design]",
+              "RelativeToolTip": "(.Net)Basics\\Craps.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:43:57.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Main.cs [Design]",
               "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\Main.cs",
               "RelativeDocumentMoniker": "(.Net)Basics\\Main.cs",
@@ -73,9 +126,22 @@
               "RelativeDocumentMoniker": "(.Net)Basics\\Main.cs",
               "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\Main.cs",
               "RelativeToolTip": "(.Net)Basics\\Main.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAD4vzAAAAAoAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwEIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T09:54:01.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumberGuesser.cs",
+              "DocumentMoniker": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberGuesser.cs",
+              "RelativeDocumentMoniker": "(.Net)Basics\\NumberGuesser.cs",
+              "ToolTip": "C:\\Users\\anil\\Documents\\GitHub\\-.net-Basics\\(.Net)Basics\\(.Net)Basics\\NumberGuesser.cs",
+              "RelativeToolTip": "(.Net)Basics\\NumberGuesser.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:48:25.507Z",
               "EditorCaption": ""
             }
           ]

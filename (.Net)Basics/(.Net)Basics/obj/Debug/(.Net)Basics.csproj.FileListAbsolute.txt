@@ -22,3 +22,5 @@ C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\
 C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\(.Net)Basics.pdb
 C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\_.Net_Basics.NumberGuesser.resources
 C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\_.Net_Basics.NumberAnalysis.resources
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\_.Net_Basics.Craps.resources
+C:\Users\anil\Documents\GitHub\-.net-Basics\(.Net)Basics\(.Net)Basics\obj\Debug\_.Net_Basics.NumberGuessing.resources
