@@ -66,5 +66,19 @@ namespace _.Net_Basics
             numberGuessing.Show();
             this.Hide();
         }
+
+        private void redirectToMessageExp_Click(object sender, EventArgs e)
+        {
+            MessageExp messageExp = new MessageExp();
+            messageExp.Show();
+            this.Hide();
+        }
+
+        private void MessageSender_Click(object sender, EventArgs e)
+        {
+            MessageSender messageSender = new MessageSender();
+            messageSender.Show();
+            this.Hide();
+        }
     }
 }

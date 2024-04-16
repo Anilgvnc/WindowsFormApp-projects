@@ -64,6 +64,18 @@
     <Compile Include="MathOp.Designer.cs">
       <DependentUpon>MathOp.cs</DependentUpon>
     </Compile>
+    <Compile Include="MessageExp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageExp.Designer.cs">
+      <DependentUpon>MessageExp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageSender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageSender.Designer.cs">
+      <DependentUpon>MessageSender.cs</DependentUpon>
+    </Compile>
     <Compile Include="NumberGuesser.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +104,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MathOp.resx">
       <DependentUpon>MathOp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageExp.resx">
+      <DependentUpon>MessageExp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageSender.resx">
+      <DependentUpon>MessageSender.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="NumberGuesser.resx">
       <DependentUpon>NumberGuesser.cs</DependentUpon>
