@@ -1,0 +1,10 @@
+C:\Users\anil\source\repos\howto_binary_tree\howto_binary_tree\bin\Debug\howto_binary_tree.exe.config
+C:\Users\anil\source\repos\howto_binary_tree\howto_binary_tree\bin\Debug\howto_binary_tree.exe
+C:\Users\anil\source\repos\howto_binary_tree\howto_binary_tree\bin\Debug\howto_binary_tree.pdb
+C:\Users\anil\source\repos\howto_binary_tree\howto_binary_tree\obj\Debug\howto_binary_tree.csproj.AssemblyReference.cache
+C:\Users\anil\source\repos\howto_binary_tree\howto_binary_tree\obj\Debug\howto_binary_tree.Form1.resources
+C:\Users\anil\source\repos\howto_binary_tree\howto_binary_tree\obj\Debug\howto_binary_tree.Properties.Resources.resources
+C:\Users\anil\source\repos\howto_binary_tree\howto_binary_tree\obj\Debug\howto_binary_tree.csproj.GenerateResource.cache
+C:\Users\anil\source\repos\howto_binary_tree\howto_binary_tree\obj\Debug\howto_binary_tree.csproj.CoreCompileInputs.cache
+C:\Users\anil\source\repos\howto_binary_tree\howto_binary_tree\obj\Debug\howto_binary_tree.exe
+C:\Users\anil\source\repos\howto_binary_tree\howto_binary_tree\obj\Debug\howto_binary_tree.pdb
