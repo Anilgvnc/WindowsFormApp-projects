@@ -1,0 +1,10 @@
+C:\Users\anil\source\repos\greetingCard\greetingCard\bin\Debug\greetingCard.exe.config
+C:\Users\anil\source\repos\greetingCard\greetingCard\bin\Debug\greetingCard.exe
+C:\Users\anil\source\repos\greetingCard\greetingCard\bin\Debug\greetingCard.pdb
+C:\Users\anil\source\repos\greetingCard\greetingCard\obj\Debug\greetingCard.csproj.AssemblyReference.cache
+C:\Users\anil\source\repos\greetingCard\greetingCard\obj\Debug\greetingCard.Form1.resources
+C:\Users\anil\source\repos\greetingCard\greetingCard\obj\Debug\greetingCard.Properties.Resources.resources
+C:\Users\anil\source\repos\greetingCard\greetingCard\obj\Debug\greetingCard.csproj.GenerateResource.cache
+C:\Users\anil\source\repos\greetingCard\greetingCard\obj\Debug\greetingCard.csproj.CoreCompileInputs.cache
+C:\Users\anil\source\repos\greetingCard\greetingCard\obj\Debug\greetingCard.exe
+C:\Users\anil\source\repos\greetingCard\greetingCard\obj\Debug\greetingCard.pdb
